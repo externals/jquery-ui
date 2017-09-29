@@ -57,5 +57,5 @@ Then checkout the "packages" branch and merge your version into it. result:
     2017-09
         Adds Version packages
         Adds Version v1-11-4
-        Adds Version v1-11-4
+        Adds Version v1-12-4
 
