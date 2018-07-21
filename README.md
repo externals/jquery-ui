@@ -51,10 +51,13 @@ Then checkout the "packages" branch and merge your version into it. result:
 
 
 
-
 # Changelog
+    
+    2018-07
+        Adds plugin for ui v1* Touch Punch 0.2.3
 
     2017-09
         Adds Version packages
         Adds Version v1-11-4
         Adds Version v1-12-4
+
